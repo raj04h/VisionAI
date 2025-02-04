@@ -1,0 +1,71 @@
+{"time":"2025-02-04T10:08:27.5405036+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"d:\\CS_code\\Dev_Corner\\AI_DEV\\CV _code\\CV_Projects\\wandb\\run-20250204_100826-x4nqlc45\\logs\\debug-core.log"}
+{"time":"2025-02-04T10:08:28.1331155+05:30","level":"INFO","msg":"created new stream","id":"x4nqlc45"}
+{"time":"2025-02-04T10:08:28.1342141+05:30","level":"INFO","msg":"stream: started","id":"x4nqlc45"}
+{"time":"2025-02-04T10:08:28.1347572+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"x4nqlc45"}
+{"time":"2025-02-04T10:08:28.1342141+05:30","level":"INFO","msg":"handler: started","stream_id":"x4nqlc45"}
+{"time":"2025-02-04T10:08:28.1347572+05:30","level":"INFO","msg":"sender: started","stream_id":"x4nqlc45"}
+{"time":"2025-02-04T10:08:29.3622463+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-04T10:14:59.2412742+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T10:15:09.375173+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T10:15:09.3905509+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T10:15:09.4171123+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T10:35:04.0255981+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T10:41:59.9001187+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T10:41:59.9405633+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T10:54:18.6560977+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T10:56:55.4131581+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-04T10:57:18.5176011+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-04T10:57:44.3368754+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-04T11:18:57.7770383+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": unexpected EOF"}
+{"time":"2025-02-04T11:20:52.2118279+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-04T11:21:32.2049584+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-04T11:21:55.3940899+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-04T11:39:51.8925544+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:39:52.0678849+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:39:56.0764905+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:39:56.1464483+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:39:56.1631839+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:39:56.1807556+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:39:56.1910441+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:39:56.2092444+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:03.2938971+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:03.3060005+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:03.3211759+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:03.3452692+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:03.3492485+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:03.3699648+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:19.8507133+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:19.9301068+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:19.9370298+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:19.9588055+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:19.9650496+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:19.9912534+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:48.6635494+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:48.7345726+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:48.7420099+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:48.7641054+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:48.7700368+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:48.8036133+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:48.8087468+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:48.8430336+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:48.8486887+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:48.8826977+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:49.3795339+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:49.4000165+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:49.4035404+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:49.4298634+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:49.5553676+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:49.5741314+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:49.5776482+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:49.6134198+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:49.7516317+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T11:40:49.8310879+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T11:40:49.8714015+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T12:23:20.888869+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T12:23:21.0296059+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T12:23:24.8261136+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T12:23:24.8576678+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T12:23:27.3544189+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T12:26:12.0348323+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-04T12:26:35.5665772+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-04T12:27:00.6717408+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/raj-hr9934-vit-bhopal/CIFAR10-ven/x4nqlc45/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}

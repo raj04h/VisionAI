@@ -1,0 +1,73 @@
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m37s[0m 45ms/step - accuracy: 0.2345 - loss: 2.0408 - val_accuracy: 0.4503 - val_loss: 1.5461
+Epoch 2/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 42ms/step - accuracy: 0.3878 - loss: 1.6587 - val_accuracy: 0.5194 - val_loss: 1.3244
+Epoch 3/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m44s[0m 56ms/step - accuracy: 0.4458 - loss: 1.5195 - val_accuracy: 0.5577 - val_loss: 1.2631
+Epoch 4/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m47s[0m 60ms/step - accuracy: 0.4920 - loss: 1.4131 - val_accuracy: 0.5859 - val_loss: 1.1722
+Epoch 5/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m37s[0m 47ms/step - accuracy: 0.5175 - loss: 1.3400 - val_accuracy: 0.5979 - val_loss: 1.1337
+Epoch 6/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m44s[0m 56ms/step - accuracy: 0.5372 - loss: 1.2948 - val_accuracy: 0.6147 - val_loss: 1.0848
+Epoch 7/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m50s[0m 63ms/step - accuracy: 0.5618 - loss: 1.2361 - val_accuracy: 0.6580 - val_loss: 0.9866
+Epoch 8/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m47s[0m 60ms/step - accuracy: 0.5767 - loss: 1.2019 - val_accuracy: 0.6586 - val_loss: 0.9797
+Epoch 9/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m42s[0m 54ms/step - accuracy: 0.5868 - loss: 1.1649 - val_accuracy: 0.6558 - val_loss: 0.9953
+Epoch 10/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m46s[0m 59ms/step - accuracy: 0.6023 - loss: 1.1314 - val_accuracy: 0.6529 - val_loss: 0.9857
+Epoch 1/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m155s[0m 153ms/step - accuracy: 0.1307 - loss: 2.2854 - val_accuracy: 0.1000 - val_loss: 2.3381
+Epoch 2/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m117s[0m 150ms/step - accuracy: 0.1539 - loss: 2.1606 - val_accuracy: 0.1000 - val_loss: 2.3636
+Epoch 3/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m140s[0m 179ms/step - accuracy: 0.1680 - loss: 2.0760 - val_accuracy: 0.1000 - val_loss: 2.3936
+Epoch 4/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m121s[0m 154ms/step - accuracy: 0.1820 - loss: 2.0512 - val_accuracy: 0.1151 - val_loss: 2.3040
+Epoch 5/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m118s[0m 151ms/step - accuracy: 0.1818 - loss: 2.0335 - val_accuracy: 0.1383 - val_loss: 3.2738
+Epoch 6/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m124s[0m 159ms/step - accuracy: 0.1952 - loss: 1.9839 - val_accuracy: 0.1161 - val_loss: 19.6559
+Epoch 7/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m111s[0m 142ms/step - accuracy: 0.2037 - loss: 1.9569 - val_accuracy: 0.1405 - val_loss: 10.6567
+Epoch 8/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m97s[0m 124ms/step - accuracy: 0.2116 - loss: 1.9485 - val_accuracy: 0.1144 - val_loss: 35.9897
+Epoch 9/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m103s[0m 132ms/step - accuracy: 0.2134 - loss: 1.9453 - val_accuracy: 0.1119 - val_loss: 54.3767
+Epoch 10/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m99s[0m 127ms/step - accuracy: 0.2092 - loss: 1.9490 - val_accuracy: 0.1511 - val_loss: 38.5116
+Epoch 1/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m350s[0m 360ms/step - accuracy: 0.2319 - loss: 2.1246 - val_accuracy: 0.3397 - val_loss: 1.7881
+Epoch 2/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m243s[0m 310ms/step - accuracy: 0.3590 - loss: 1.7619 - val_accuracy: 0.4664 - val_loss: 1.4743
+Epoch 3/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m254s[0m 325ms/step - accuracy: 0.4132 - loss: 1.6282 - val_accuracy: 0.4787 - val_loss: 1.4642
+Epoch 4/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m255s[0m 326ms/step - accuracy: 0.4499 - loss: 1.5412 - val_accuracy: 0.4515 - val_loss: 1.5466
+Epoch 5/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m275s[0m 351ms/step - accuracy: 0.4818 - loss: 1.4615 - val_accuracy: 0.4890 - val_loss: 1.4169
+Epoch 6/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m270s[0m 345ms/step - accuracy: 0.5192 - loss: 1.3801 - val_accuracy: 0.5797 - val_loss: 1.1843
+Epoch 7/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m267s[0m 342ms/step - accuracy: 0.5368 - loss: 1.3257 - val_accuracy: 0.5148 - val_loss: 1.4515
+Epoch 8/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m308s[0m 324ms/step - accuracy: 0.5547 - loss: 1.2806 - val_accuracy: 0.5759 - val_loss: 1.1923
+Epoch 9/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m247s[0m 316ms/step - accuracy: 0.5778 - loss: 1.2131 - val_accuracy: 0.6143 - val_loss: 1.0970
+Epoch 10/10
+[1m782/782[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m253s[0m 323ms/step - accuracy: 0.5986 - loss: 1.1623 - val_accuracy: 0.5149 - val_loss: 1.5674
+Test Accuracy: 0.6529
+Test Loss: 0.9857
+Test Accuracy: 0.1511
+Test Loss: 38.5116
+Test Accuracy: 0.5149
+Test Loss: 1.5674
+Test Accuracy: 0.1066
+Test Loss: 2.3020
+[{"variableName": "axes", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "b", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "class_names", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "df_aug", "type": "pandas", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "pandas.core.frame.DataFrame"}, {"variableName": "g", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "learning_rate", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "mean", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "optimizer", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "r", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "sd", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "x_test", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "x_train", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "y_test", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "y_train", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}]
+Eager Execution: True
+c:\Users\himan\AppData\Local\Programs\Python\Python312\Lib\site-packages\tensorflow\python\data\ops\structured_function.py:258: UserWarning: Even though the `tf.config.experimental_run_functions_eagerly` option is set, this option does not apply to tf.data functions. To force eager execution of tf.data functions, please use `tf.data.experimental.enable_debug_mode()`.
+  warnings.warn(
+Epoch 1/10
+[1m267/782[0m [32m━━━━━━[0m[37m━━━━━━━━━━━━━━[0m [1m6:42[0m 782ms/step - accuracy: 0.1118 - loss: 2.2994

@@ -1,0 +1,31 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.7",
+  "startedAt": "2025-02-04T04:38:27.534945Z",
+  "program": "d:\\CS_code\\Dev_Corner\\AI_DEV\\CV _code\\CV_Projects\\CIFAR_HR21.ipynb",
+  "codePath": "CV_Projects\\CIFAR_HR21.ipynb",
+  "git": {
+    "remote": "https://github.com/raj04h/CV-_code.git",
+    "commit": "1eb1192d2d1c284d8d5d336935dc89d1c381c9b4"
+  },
+  "email": "himanshuraj.hr9934@gmail.com",
+  "root": "d:\\CS_code\\Dev_Corner\\AI_DEV\\CV _code\\CV_Projects",
+  "host": "Dev_420",
+  "executable": "c:\\Users\\himan\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "codePathLocal": "CIFAR_HR21.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "270585032704",
+      "used": "62177034240"
+    }
+  },
+  "memory": {
+    "total": "8266469376"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
